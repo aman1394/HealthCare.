@@ -1,5 +1,4 @@
 # HealthCare.
-This website created using HTML, CSS and JavaScript.
 Here's some info about "Healthcare" website 🙂:
 1. "Healthcare" is a comprehensive website that offers a range of essential medical services.
 2. Our platform provides detailed information about various healthcare facilities and their services.
@@ -9,5 +8,3 @@ Here's some info about "Healthcare" website 🙂:
 6. Stay informed with our recent posts covering the latest developments in the healthcare industry.
 7. Explore our user-friendly footer, which contains useful links and options for social sharing.
 8. "Healthcare" is your go-to destination for all your medical needs, making healthcare accessible to all.
-
-Live link to this website : https://healthcare-live.netlify.app/
