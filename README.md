@@ -8,7 +8,6 @@ Welcome to the Healthcare website, where we prioritize your well-being and safet
 
 - [Overview](#overview)
 - [Features](#features)
-- [Screenshots](#screenshots)
 - [Getting Started](#getting-started)
 - [Contributing](#contributing)
 - [License](#license)
