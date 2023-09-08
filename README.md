@@ -1,5 +1,3 @@
-Certainly, here's a well-structured description for your GitHub README to showcase your healthcare website:
-
 # Healthcare Website
 
 Welcome to the Healthcare website, where we prioritize your well-being and safety. 
